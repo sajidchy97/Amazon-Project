@@ -189,7 +189,7 @@ span{
 
 .hero-section{
     height: 350px;
-    background-image: url(Assets/hero_image.jpg);
+    background-image: url(Assets/hero_image.webp);
     background-size: cover;
 }
 
